@@ -1,5 +1,7 @@
 # vue-router-week6
 
+https://tedkuo10.github.io/hexschool-vue3_vue-router-week6/dist/
+
 ## Project setup
 ```
 npm install
