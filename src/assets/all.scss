@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/functions";
+
+// 2. Include any default variable overrides here
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "./helpers/variables";
+@import "~bootstrap/scss/mixins";
+
+// ~ sass 中對應 node_module ../mode_modules/
+@import "~bootstrap"
